@@ -1,6 +1,6 @@
 # Wallet_App_UI
 
-# Hello Everyone!
+Hello Everyone!
 
 I would like to share a project that I had been working on for the past few days.
 

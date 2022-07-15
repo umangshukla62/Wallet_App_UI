@@ -10,8 +10,8 @@ This project is built on Dart language and the simulator used is Xcode
 
 This app is designed to store all your cards and view your balance in real time.
 
-User can get detailed past transactions.
+User can get details about past transactions.
 
-User can send money through different modes and and view of contacts to send money.
+User can send money through different modes .
 
 User can add a card by choosing his Bank.
